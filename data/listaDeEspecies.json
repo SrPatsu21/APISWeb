@@ -1,0 +1,193 @@
+{
+    "especies": [
+        {
+            "nomePopular": "Boca de sapo",
+            "nomeCientifico": "Tetragona clavipes",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil", "Sul", "Sudeste"],
+            "pasta": "./Boca de sapo - Tetragona clavipes/data.json"
+        },
+        {
+            "nomePopular": "Borá, Vorá",
+            "nomeCientifico": "Tetragona clavipes",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil", "Mata Atlântica"],
+            "pasta": "./Borá, Vorá - Tetragona clavipes/data.json"
+        },
+        {
+            "nomePopular": "Bugia",
+            "nomeCientifico": "Melípona mondury",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil", "Amazônia"],
+            "pasta": "./Bugia - Melípona Mondury/data.json"
+        },
+        {
+            "nomePopular": "Caga fogo",
+            "nomeCientifico": "Oitrigona tataíra",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Caga fogo - Oitrigona tataíra/data.json"
+        },
+        {
+            "nomePopular": "Canudo",
+            "nomeCientifico": "Scaptotrigona depilis",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil", "Interior"],
+            "pasta": "./Canudo Scaptotrigona depilis/data.json"
+        },
+        {
+            "nomePopular": "Guaraipo preto",
+            "nomeCientifico": "Melipona bicolor schenki",
+            "categoria": "Sem ferrão",
+            "tags": ["Sul do Brasil"],
+            "pasta": "./Guaraipo preto - Melipona bicolor schenki/data.json"
+        },
+        {
+            "nomePopular": "Iraí",
+            "nomeCientifico": "Nannotrigona testaceicornis",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil", "Cidades"],
+            "pasta": "./Iraí - Nannotrigona testaceicornis/data.json"
+        },
+        {
+            "nomePopular": "Irapuã",
+            "nomeCientifico": "Trigona spinips",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Irapuã - Trigona spinips/data.json"
+        },
+        {
+            "nomePopular": "Iratim preta",
+            "nomeCientifico": "Lestrimelitta sulina",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Iratim preta - Lestrimelitta sulina/data.json"
+        },
+        {
+            "nomePopular": "Iratim vermelha",
+            "nomeCientifico": "Lestrimelitta ehrhardti",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Iratim vermelha - Lestrimelitta ehrhardti/data.json"
+        },
+        {
+            "nomePopular": "Jataí da terra, Mirim sem brilho",
+            "nomeCientifico": "Paratrigona subnuda",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Jataí da terra, Mirim sem brilho - Paratrigona subnuda/data.json"
+        },
+        {
+            "nomePopular": "Jataí",
+            "nomeCientifico": "Tetragonisca angustula",
+            "categoria": "Sem ferrão",
+            "tags": ["América do Sul"],
+            "pasta": "./Jataí - Tetragonisca angustula/data.json"
+        },
+        {
+            "nomePopular": "Jataí",
+            "nomeCientifico": "Tetragonisca fiebrigi",
+            "categoria": "Sem ferrão",
+            "tags": ["América do Sul"],
+            "pasta": "./Jataí - Tetragonisca fiebrigi/data.json"
+        },
+        {
+            "nomePopular": "Lambe olhos, Lambe suor",
+            "nomeCientifico": "Leurotrigona muelleri",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Lambe olhos, Lambe suor - Leurotrigona muelleri/data.json"
+        },
+        {
+            "nomePopular": "Mandaçaia",
+            "nomeCientifico": "Melipona quadri anthidiodes",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Mandaçaia - Melipona quadri anthidiodes/data.json"
+        },
+        {
+            "nomePopular": "Mandaçaia",
+            "nomeCientifico": "Melípona quadri quadri",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Mandaçaia - Melípona quadri quadri/data.json"
+        },
+        {
+            "nomePopular": "Manduri preta",
+            "nomeCientifico": "Melipona marginata",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Manduri preta - Melipona marginata/data.json"
+        },
+        {
+            "nomePopular": "Manduri vermelho",
+            "nomeCientifico": "Melipona obscurior (Rufis)",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Manduri vermelho - Melipona obscurior (Rufis)/data.json"
+        },
+        {
+            "nomePopular": "Mel do chão, guiriçú",
+            "nomeCientifico": "Schwarziana quadripuntacta",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Mel do chão, guiriçú - Schwarziana quadripuntacta/data.json"
+        },
+        {
+            "nomePopular": "Mirim droriana",
+            "nomeCientifico": "Plebeia droriana",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Mirim droriana - Plebeia droriana/data.json"
+        },
+        {
+            "nomePopular": "Mirim Emerina Timirim",
+            "nomeCientifico": "Plebeia emerina",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Mirim Emerina Timirim - Plebeia emerina/data.json"
+        },
+        {
+            "nomePopular": "Mirim-guaçú",
+            "nomeCientifico": "Plebeia remota",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Mirim-guaçú - Plebeia remota/data.json"
+        },
+        {
+            "nomePopular": "Mirim, Mosquito",
+            "nomeCientifico": "Plebeia nigriceps",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Mirim, Mosquito - Plebeia nigriceps/data.json"
+        },
+        {
+            "nomePopular": "Mirim Saiqui",
+            "nomeCientifico": "Plebeia saiqui",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Mirim Saiqui - Plebeia saiqui/data.json"
+        },
+        {
+            "nomePopular": "Plebéia",
+            "nomeCientifico": "Plebéia sp",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Plebéia - Plebéia sp/data.json"
+        },
+        {
+            "nomePopular": "Tubiba",
+            "nomeCientifico": "Scaptotrigona tubiba",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Tubiba - Scaptotrigona tubiba/data.json"
+        },
+        {
+            "nomePopular": "Tubuna",
+            "nomeCientifico": "Scaptotrigona bipunctata",
+            "categoria": "Sem ferrão",
+            "tags": ["Brasil"],
+            "pasta": "./Tubuna - Scaptotrigona bipunctata/data.json"
+        }
+    ]
+}

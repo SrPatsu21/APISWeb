@@ -1,0 +1,17 @@
+{
+    "biomas": [
+        "amazonia",
+        "cerrado",
+        "caatinga",
+        "mata_atlantica",
+        "pantanal",
+        "pampa"
+    ],
+    "regioes": {
+        "norte": ["AC", "AP", "AM", "PA", "RO", "RR", "TO"],
+        "nordeste": ["AL", "BA", "CE", "MA", "PB", "PE", "PI", "RN", "SE"],
+        "centro_oeste": ["DF", "GO", "MT", "MS"],
+        "sudeste": ["ES", "MG", "RJ", "SP"],
+        "sul": ["PR", "RS", "SC"]
+    }
+}

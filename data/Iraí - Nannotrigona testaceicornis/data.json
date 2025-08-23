@@ -1,0 +1,14 @@
+{
+    "nomePopular": "example",
+    "nomeCientifico": "example",
+    "descricao": "example",
+    "categorias": ["example"],
+    "tags": {
+        "biomas": ["example"],
+        "estados": ["example", "example"]
+    },
+    "imagens": [
+        "example.jpg",
+        "example.jpg"
+    ]
+}
